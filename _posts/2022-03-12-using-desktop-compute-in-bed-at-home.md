@@ -13,9 +13,6 @@ tags: windows10 wsl2 dev-env
 > [video link](/assets/img/202203/workstation_example.mov)
 <video controls>
   <source src="/assets/img/202203/workstation_example.mov" type="video/mp4">
-  <source src="myVideo.webm" type="video/webm">
-  <p>Your browser doesn't support HTML5 video. Here is
-     a <a href="myVideo.mp4">link to the video</a> instead.</p>
 </video>
 
 # 背景
