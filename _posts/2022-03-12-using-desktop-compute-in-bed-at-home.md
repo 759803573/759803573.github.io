@@ -9,7 +9,10 @@ tags: windows10 wsl2 dev-env
 
 > 用 Docker on Win10 WSL2 台式机来扩展 MBP 性能. 演示环境以Spark, Zeppelin 为例.
 
-
+# 演示
+<p><video id="scenario-1" controls preload="auto" data-setup='{}'>
+  <source src="/assets/img/202203/workstation_example.mov">
+</video></p>
 
 # 背景
 ## 为什么要躺在床上用台式机?
@@ -73,11 +76,6 @@ netsh interface portproxy add v4tov4 listenport=2022 connectport=2022 connectadd
 1. 安装 Extension: remote-ssh
 2. Add New Host:
 ![vscode add host](/assets/img/202203/vs-code-config.png)
-
-# 演示
-<p><video id="scenario-1" controls preload="auto" data-setup='{}'>
-  <source src="/assets/img/202203/workstation_example.mov">
-</video></p>
 
 # 后续
 * 设置一下远程开机:
