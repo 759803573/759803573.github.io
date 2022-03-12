@@ -10,10 +10,8 @@ tags: windows10 wsl2 dev-env
 > 用 Docker on Win10 WSL2 台式机来扩展 MBP 性能. 演示环境以Spark, Zeppelin 为例.
 
 # 演示
-> [video link](/assets/img/202203/workstation_example.mp4)
-<video autoplay loop muted playsinline>
-  <source src="/assets/img/202203/workstation_example.mp4" type="video/mp4">
-</video>
+> [video link: 只能在电脑上看](/assets/img/202203/workstation_example.mp4)
+![demo](/assets/img/202203/workstation_example.gif)
 
 # 背景
 ## 为什么要躺在床上用台式机?
