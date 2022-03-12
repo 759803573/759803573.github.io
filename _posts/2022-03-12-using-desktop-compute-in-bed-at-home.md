@@ -11,7 +11,7 @@ tags: windows10 wsl2 dev-env
 
 # 演示
 > [video link](/assets/img/202203/workstation_example.mp4)
-<video controls>
+<video autoplay loop muted playsinline>
   <source src="/assets/img/202203/workstation_example.mp4" type="video/mp4">
 </video>
 
